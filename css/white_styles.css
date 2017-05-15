@@ -1,0 +1,63 @@
+body {
+    background-image: url(images/white_background.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; 
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#Introduction {
+    position: relative;
+    width: 700px;
+    height: 400px;
+    padding-top: 20px;
+    padding-left: 150px;
+    /*color: gainsboro;*/
+    font-size: 180%;
+} 
+#logo{
+    position: relative;
+    padding-top: 58px; 
+    padding-left: 67px;
+    
+    
+}
+
+#mypage{
+     width: 1000px;
+     margin: 0 auto;
+}
+
+#terms{
+    position: relative;
+    width: 750px;
+    padding-top: 10px;
+    padding-left: 150px;
+    /*color: gainsboro;*/
+    font-size: 140%;
+}
+#stores
+{
+    position: relative;
+    padding-left: 160px;
+    
+}
+
+#playstore
+{
+    position: relative;
+    padding-left: 125px;
+    
+}
+#appstore
+{
+    position: relative;
+    padding-left: 75px;
+    
+}
+#app
+{
+    position: relative;
+    padding-top: 20px;
+    padding-left: 167px; 
+    padding-bottom: 20px;
+}
