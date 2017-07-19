@@ -1,3 +1,4 @@
+
 body {
     background-image: url(images/white_background.jpg);
     background-repeat: no-repeat;
@@ -29,9 +30,9 @@ body {
 
 #terms{
     position: relative;
-    width: 800px;
-    padding-top: 10px;
-    padding-left: 125px;
+    width: 850px;
+    padding-top: 20px;
+    padding-left: 100px;
     /*color: gainsboro;*/
     font-size: 140%;
 }
