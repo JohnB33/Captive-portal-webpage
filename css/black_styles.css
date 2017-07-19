@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/black_background.jpg);
+    background-image: url(images/white_background.jpg);
     background-repeat: no-repeat;
     background-position: center top; 
     font-family: Arial, Verdana, sans-serif;
@@ -7,11 +7,11 @@ body {
 
 #Introduction {
     position: relative;
-    width: 700px;
+    width: 850px;
     height: 400px;
     padding-top: 20px;
-    padding-left: 150px;
-    color: gainsboro;
+    padding-left: 100px;
+    /*color: gainsboro;*/
     font-size: 180%;
 } 
 #logo{
@@ -29,11 +29,17 @@ body {
 
 #terms{
     position: relative;
-    width: 750px;
+    width: 800px;
     padding-top: 10px;
-    padding-left: 150px;
-    color: gainsboro;
+    padding-left: 125px;
+    /*color: gainsboro;*/
     font-size: 140%;
+}
+#stores
+{
+    position: relative;
+    padding-left: 160px;
+    
 }
 
 #playstore
@@ -51,7 +57,7 @@ body {
 #app
 {
     position: relative;
-    padding-top: 20px;
-    padding-left: 170px; 
+    padding-top: 50px;
+    padding-left: 167px; 
     padding-bottom: 20px;
 }

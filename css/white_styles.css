@@ -7,10 +7,10 @@ body {
 
 #Introduction {
     position: relative;
-    width: 700px;
+    width: 850px;
     height: 400px;
     padding-top: 20px;
-    padding-left: 150px;
+    padding-left: 100px;
     /*color: gainsboro;*/
     font-size: 180%;
 } 
@@ -29,9 +29,9 @@ body {
 
 #terms{
     position: relative;
-    width: 750px;
+    width: 800px;
     padding-top: 10px;
-    padding-left: 150px;
+    padding-left: 125px;
     /*color: gainsboro;*/
     font-size: 140%;
 }
@@ -57,7 +57,7 @@ body {
 #app
 {
     position: relative;
-    padding-top: 20px;
+    padding-top: 50px;
     padding-left: 167px; 
     padding-bottom: 20px;
 }
